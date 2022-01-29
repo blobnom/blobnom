@@ -1,5 +1,7 @@
 ## Knowledge in:
 
+![Python](https://img.shields.io/badge/-Golang-black?style=flat-square&logo=Go)
+![Python](https://img.shields.io/badge/-CSharp-black?style=flat-square&logo=csharp)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
