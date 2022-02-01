@@ -12,5 +12,6 @@
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=elainaaa&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elainaaa&hide=TeX&layout=compact)
+![Top Hours](https://github-readme-stats.vercel.app/api/wakatime?username=elainaaa&layout=compact)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=elainaaa.elainaaa)
